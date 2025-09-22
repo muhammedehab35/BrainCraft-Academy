@@ -13,8 +13,6 @@
 
 ---
 
-**Made with ❤️ by MO Ehab**
-
 </div>
 
 ## 🌟 Overview
