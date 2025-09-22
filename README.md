@@ -1,8 +1,6 @@
 # 🎓 CourseGenius - AI-Powered Course Generator
 
 <div align="center">
-  
-![CourseGenius Logo](https://via.placeholder.com/200x200?text=CourseGenius)
 
 ### *Revolutionizing Education with Artificial Intelligence*
 
@@ -12,8 +10,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5+-3178C6.svg)](https://www.typescriptlang.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3+-38B2AC.svg)](https://tailwindcss.com/)
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000.svg)](https://vercel.com/)
-
-[🚀 Live Demo](https://ai-course-generator-ten.vercel.app/) • [📚 Documentation](#documentation) • [🐛 Report Bug](https://github.com/varun442/AI-Course-Generator/issues) • [✨ Request Feature](https://github.com/varun442/AI-Course-Generator/issues)
 
 ---
 
