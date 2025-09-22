@@ -94,7 +94,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/varun442/AI-Course-Generator.git
+git clone https://github.com/muhammedehab35/CourseGenius.git
 cd AI-Course-Generator
 ```
 
