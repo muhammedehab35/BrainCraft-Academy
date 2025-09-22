@@ -336,7 +336,7 @@ Found a bug or have a feature idea? We'd love to hear from you!
 - **Data Protection**: Encrypted data transmission
 - **Privacy**: GDPR compliant data handling
 
-Report security vulnerabilities to: security@coursegenius.dev
+Report security vulnerabilities to: muhammed35ehab@gmail.ccom
 
 ## 📄 License
 
