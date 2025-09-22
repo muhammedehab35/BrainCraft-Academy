@@ -213,21 +213,6 @@ For production deployment, consider using:
 - **System Analytics** - Monitor platform usage and performance
 - **Configuration** - Adjust platform settings and features
 
-## 🎨 Screenshots
-
-<div align="center">
-
-### 🏠 Dashboard
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
-
-### ✏️ Course Editor
-![Course Editor](https://via.placeholder.com/800x400?text=Course+Editor+Screenshot)
-
-### 📊 Analytics
-![Analytics](https://via.placeholder.com/800x400?text=Analytics+Screenshot)
-
-</div>
-
 ## 🚀 Deployment
 
 ### Vercel Deployment (Recommended)
