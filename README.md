@@ -411,7 +411,7 @@ Need help? Reach out to us:
 [![GitHub forks](https://img.shields.io/github/forks/varun442/AI-Course-Generator?style=social)](https://github.com/varun442/AI-Course-Generator)
 [![GitHub watchers](https://img.shields.io/github/watchers/varun442/AI-Course-Generator?style=social)](https://github.com/varun442/AI-Course-Generator)
 
-**Made with ❤️ by [MO Ehab](https://github.com/mo-ehab)**
+**Made with ❤️ by [MO Ehab](https://github.com/muhammedehab35)**
 
 *Empowering educators worldwide with AI-driven course creation*
 
